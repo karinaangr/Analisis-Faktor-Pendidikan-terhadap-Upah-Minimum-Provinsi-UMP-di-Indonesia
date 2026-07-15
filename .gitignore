@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Data (keep raw data out of version control if sensitive/large)
+data/*.xlsx
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
