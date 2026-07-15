@@ -108,8 +108,3 @@ UMP-Education-Regression/
 └── figures/                # place generated plots here (Q-Q plot, residuals vs fitted, etc.)
 ```
 
-## Author
-
-**Karina Dwi Anggraini**
-Undergraduate, Mathematics, Universitas Gadjah Mada
-Supervised by: Era Setya Cahyati, S.Si., M.Sc. (course instructor)
